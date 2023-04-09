@@ -1,6 +1,9 @@
 # Tyler Lo's User Page
 Hi! I'm **Tyler Lo**, a *UCSD* student graduating in ~~2024~~ 2025. One of the quotes I like to live by is that 
-> You are the average of the 5 people you spend the most time with.
+> You are the average of the 5 people you spend the most time with. 
+
+
+
 I really like this quote because it tells you to spend time with people that you want to become more like, and to prioritize which relationships are most important to you. It also demonstrates your biases; your parents, teachers, and childhood friends had massive impacts on ther person you've become, and it is up to you to filter through the parts of your personality you gained from your childhood and pick which traits to keep. Everyone's personality is summarized by the trauma they experienced in their childhood, as proven by psychology, and it's not difficult to follow the research done on your type of mental trauma and self correct.
 This can pretty much be summarized into a few lines of code for one to follow:
 ```
@@ -35,5 +38,6 @@ For this quarter, I have a few goals
 - [ ] eat vegetables and gain a bit of weight <sub>(which are contradictory goals, i know)</sub> 
 
 <sup>(If you read this and are worried about me, please don't be, I tried to keep this as unfiltered as possible to have fun with it)</sup>
-Also, here's a photo I asked chatGPT to randomly generate for me that I thought was pretty cool
+
+Also, here's a photo I asked chatGPT to randomly generate for me that I thought was pretty cool.
 ![chatGPTRandomPhoto](openaiRandomPhoto.PNG)
